@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Macros",
+  "description": "A Google Health style carb and macro tracking app capable of scanning products through AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
